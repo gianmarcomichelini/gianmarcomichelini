@@ -15,6 +15,16 @@
   </a>
 </div>
 
+
+
+
+<div align="center">
+  <h3>📫 Contact Me</h3>
+  <a href="https://linkedin.com/in/gianmarco-michelini">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 <br>
 
 ## 🎓 About Me
@@ -74,9 +84,3 @@ Here are some of the projects I've worked on, focusing on secure system design, 
 | **Wi-Fi & GNSS Analysis** | 📡 Network Security | Research on **Wi-Fi goodput** degradation using iperf3/Wireshark and a **GNSS security analysis** focusing on satellite signal spoofing vulnerabilities. |
 <br>
 
-## 📫 Contact Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/gianmarco-michelini"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
