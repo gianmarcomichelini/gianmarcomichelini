@@ -13,17 +13,14 @@
   <a href="https://gianmarcomichelini.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-</div>
-
-
-
-
-<div align="center">
-  <h3>📫 Contact Me</h3>
   <a href="https://linkedin.com/in/gianmarco-michelini">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
+
+
+
 
 <br>
 
