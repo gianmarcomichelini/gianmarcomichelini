@@ -1,81 +1,172 @@
 <div align="center">
 
-  <h1>Hi there, I'm Gianmarco Michelini! 👋</h1>
-  
-  <p>
-    🎓 <b>MSc Cybersecurity Student</b> @ PoliTo | 💻 <b>Computer Engineer</b> (UNIMORE)<br>
-    🎯 Focus: <b>Secure System Design, Network Security & Cryptography</b><br>
-    🚀 Currently looking for an <b>Internship</b>
-  </p>
+# 👋 Hi, I'm Gianmarco Michelini
+
+### 🔐 Cybersecurity Engineer 
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-2ea44f?style=for-the-badge)](https://gianmarcomichelini.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gianmarco-michelini)
+
 </div>
 
-<div align="center">
-  <a href="https://gianmarcomichelini.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/gianmarco-michelini">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+## 🎯 About Me
+
+```yaml
+location: Turin/Modena, Italy
+current_focus: Secure System Design & Cryptography
+```
 
 
+## 🛠️ Technical Arsenal
+
+<table>
+<tr>
+
+<td valign="top" width="30%">
+
+### ⚙️ Embedded & Systems
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Cortex-0091BD?style=flat-square&logo=arm&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-43B02A?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Skills:** Bare-metal Programming, Device Drivers, RTOS, System Emulation, Low-level Debugging
+
+</td>
+<td valign="top" width="33%">
+
+### 💻 Development & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Skills:** Full-stack Development, Secure Coding, API Design, DevOps
+
+</td>
+</tr>
+</table>
 
 
+## 🚀 Featured Projects
 
-<br>
+### 🎯 Embedded Systems & Low-Level
 
-## 🎓 About Me
-- 📍 Based in **Turin/Modena, Italy**
-- 🎓 Master’s Degree in **Cybersecurity** @ [Polytechnic University of Turin](https://www.polito.it/) (2024 - Present)
-- 🎓 Bachelor’s Degree in **Computer Engineering** @ [UNIMORE](https://www.unimore.it/) (2021 - 2024)
-- 🌍 Former Exchange Student @ **Conrad Von Soest Gymnasium** (Germany)
-- 🔭 Passionate about **Network Security**, **Privacy** and **Vulnerability Assessment**.
+<table>
+<tr>
+<td>
 
-<br>
+#### [NXP S32K3 QEMU Integration](https://github.com/gianmarcomichelini/S32K3X8EVB-QEMU-integration)
+> **Full system emulation for automotive-grade MCU**
 
-## 🛠 Skills
+- ✨ Complete **NXP S32K358 (Cortex-M7)** board emulation on QEMU
+- 🔧 Custom peripheral drivers (LPUART, PIT timer)
+- 🧵 **FreeRTOS** kernel port and multi-threaded task scheduling
+- 🎯 Enables embedded development without physical hardware
 
-### 🔐 Cybersecurity & Tools
-<div align="center">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-2ea44f?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" />
-<img src="https://img.shields.io/badge/Hashcat-D2381D?style=for-the-badge&logo=hashcat&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+**Tech:** `C` `QEMU` `ARM` `FreeRTOS` `CMake`
 
-### 💻 Programming/Scripting
+</td>
+</tr>
+</table>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</div>
+### 🔐 Cryptography & Quantum Security
 
-### 🌐 Web & Frameworks
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+#### [PQC Analyser](https://github.com/gianmarcomichelini/pqc-analyser)
+> **Post-Quantum Cryptography benchmarking suite**
 
-<br>
+- 🔮 Custom **OpenSSL 3.6.0** build with liboqs integration
+- 📊 Performance benchmarking: ML-DSA (Dilithium), Falcon, ML-KEM (Kyber)
+- 🔬 Interactive signing manager and key exchange simulators
+- 🐳 Fully containerized testing environment
 
-## 🏆 Featured Projects
+**Tech:** `C` `OpenSSL` `liboqs` `Docker` `Shell`
 
-Here are some of the projects I've worked on, focusing on secure system design, cryptography, and network analysis:
+</td>
+<td width="50%">
 
-| Project | Domain | Description |
-| :--- | :--- | :--- |
-| **[Reorder](https://github.com/gianmarcomichelini/reorder)** | 🔐 Secure Full-Stack | A secure web app for order management featuring **2FA (TOTP)**, hashed/salted passwords, and strict role-based access control (RBAC). Built with React & Node.js. |
-| **[Tatum24](https://github.com/gianmarcomichelini/Tatum24)** | 🛡️ Web Security | A secure code snippet sharing platform built with **Django**. Implements defense-in-depth principles, data integrity checks, and restricted modification access. |
-| **[Cryptography Playground](https://github.com/gianmarcomichelini/cryptography-labs)** | 🔑 Cryptography / CTF | A dual-track repository featuring **Python CTF** solutions (cryptanalysis, RSA attacks) and **OpenSSL/C** implementations of low-level cryptographic primitives. |
-| **Wi-Fi & GNSS Analysis** | 📡 Network Security | Research on **Wi-Fi goodput** degradation using iperf3/Wireshark and a **GNSS security analysis** focusing on satellite signal spoofing vulnerabilities. |
-<br>
+#### [QKD Simulator](https://github.com/gianmarcomichelini/qkd-simulator)
+> **BB84 Quantum Key Distribution protocol simulator**
 
+- 🌌 Educational quantum cryptography demonstration
+- 👁️ Interactive eavesdropping (Eve) attack scenarios
+- 📈 Real-time QBER (Quantum Bit Error Rate) analysis
+- 🎓 Modular architecture showing quantum state collapse
+
+**Tech:** `Python` `Docker` `Quantum Physics`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+#### [SAML SSO PoC](https://github.com/gianmarcomichelini/saml-sso-poc)
+> **Federated authentication implementation**
+
+- 🔐 Complete **SAML 2.0 Web Browser SSO** profile
+- 🔄 Push model delegated authentication flow
+- 🛡️ X.509 certificate-based trust establishment
+- ✍️ Digital signatures with RSA-SHA256
+
+**Tech:** `Python` `Flask` `pysaml2` `Docker` `OpenSSL`
+
+</td>
+<td width="50%">
+
+#### [Cryptography Labs](https://github.com/gianmarcomichelini/cryptography-labs)
+> **Hands-on cryptanalysis and primitive implementation**
+
+- 🔐 CTF-style challenges: RSA attacks, padding oracles, hash collisions
+- 🛠️ Low-level crypto implementations using **OpenSSL/C**
+- 📚 Educational focus on understanding crypto from first principles
+- 🧪 Practical cryptanalysis techniques
+
+**Tech:** `Python` `C` `OpenSSL` `CTF`
+
+</td>
+</tr>
+</table>
+
+### 🛡️ Secure Web Applications
+
+<table>
+<tr>
+<td width="50%">
+
+#### [Reorder](https://github.com/gianmarcomichelini/reorder)
+> **Security-first restaurant management system**
+
+- 🔒 **TOTP-based 2FA**
+- 🛡️ Strict session management and authentication flows
+- 🗄️ Complex business logic with ingredient dependency tracking
+- ⚡ Modern React frontend with secure REST API
+
+**Tech:** `React` `Node.js` `Express`
+
+</td>
+<td width="50%">
+
+#### [Tatum24](https://github.com/gianmarcomichelini/Tatum24)
+> **Defense-in-depth snippet sharing platform**
+
+- 🧱 Multi-layered security architecture
+- 🧹 Comprehensive input validation and sanitization
+- 🔐 Role-based access control (RBAC)
+- 🛡️ Protection against XSS, CSRF, SQL injection
+
+**Tech:** `Django` `Python` `PostgreSQL` `Bootstrap`
+
+</td>
+</tr>
+</table>
