@@ -1,48 +1,48 @@
-<div align="center">
+# Gianmarco Michelini
 
-# 👋 Hi, I'm Gianmarco Michelini
+Security Researcher · MSc student in **Cybersecurity Engineering** at Politecnico di Torino.
 
-### Cybersecurity Engineer 🔐 
+I build secure systems from the ground up, from cryptographic protocols and identity architectures to full-stack applications where security is treated as a first-class engineering discipline.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-2ea44f?style=for-the-badge)](https://gianmarcomichelini.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gianmarco-michelini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gianmarco--michelini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gianmarco-michelini)
+[![Website](https://img.shields.io/badge/Website-Portfolio-2EA043?style=flat&logo=githubpages&logoColor=white)](https://gianmarcomichelini.github.io/portfolio)
 
-</div>
+---
 
+## Focus Areas
 
-## About
+`Cryptography` · `PKI / X.509` · `SAML / SSO / IAM` · `Zero Trust` · `GDPR / NIS2` · `Post-Quantum` · `Network Security` · `Secure Full-Stack`
 
-Focused on secure system design, cryptography, and embedded systems development. I build systems from bare metal to web applications with security as the foundation.
+---
 
+## What I Work With
+
+| Area | Tools & Concepts |
+|------|------------------|
+| **Security Architecture** | PKI & X.509 · SAML / OIDC / SSO / IAM · Zero Trust · TLS / SSH / IPsec · Trusted Computing / TEE |
+| **Cryptography** | Symmetric / Asymmetric · Post-Quantum (ML-DSA, ML-KEM, Falcon) · ZKP · OpenSSL |
+| **Networks & Cloud Security** | VPN · IPv4/6 · SDN · NFV · IaaS / PaaS / SaaS · Cloud Defence & Threat Mitigation |
+| **Compliance & Risk** | GDPR & NIS2 · Threat Modelling · Privacy by Design |
+| **Languages & Scripting** | Python · C · JavaScript · Bash |
+| **Security Tools** | Wireshark · nmap · Burp Suite · Aircrack-ng · Hashcat |
+| **Cloud & Containers** | Docker · Kubernetes |
+| **DevOps & Tooling** | Git · GitHub |
 
 ---
 
 ## Selected Projects
 
-**[NXP S32K3 QEMU Integration](https://github.com/gianmarcomichelini/S32K3X8EVB-QEMU-integration)**  
-Full system emulation for NXP S32K358 automotive MCU. Custom peripheral drivers, FreeRTOS kernel port, multi-threaded task scheduling.  
-`C` `QEMU` `ARM` `FreeRTOS`
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Reorder**](https://github.com/gianmarcomichelini/reorder) | Restaurant management platform with TOTP 2FA, hashed passwords, RBAC, and OWASP-compliant API design | React · Node.js · Express · TOTP |
+| **Wi-Fi & GNSS Analysis** | Wi-Fi goodput study with iperf3 + Wireshark and a GNSS spoofing attack simulation on satellite positioning data | Wireshark · iperf3 · GNSS |
+| [**Tatum24**](https://github.com/gianmarcomichelini/Tatum24) | Code-snippet sharing platform with secure auth, RBAC, and a privacy-respecting recommendation engine | Django · Python · RBAC · Auth |
+| [**Cryptography Playground**](https://github.com/gianmarcomichelini/cryptography-labs) | Python CTF cryptanalysis (AES, RSA, hashing) paired with OpenSSL C labs implementing primitives from scratch | Python · C · OpenSSL · CTF |
+| [**SAML SSO PoC**](https://github.com/gianmarcomichelini/saml-sso-poc) | Containerised SAML 2.0 federated auth with X.509 trust chains, RSA-SHA256 signatures, and Push Model | Python · Flask · Docker · X.509 |
+| [**Data Privacy Toolkit**](https://github.com/gianmarcomichelini/data-privacy-toolkit) | Python toolkit for K-Anonymity and Differential Privacy, covering anonymisation and privacy-preserving data analysis | Python · K-Anonymity · Differential Privacy |
+| [**PQC Benchmarking Suite**](https://github.com/gianmarcomichelini/pqc-analyser) | OpenSSL 3.6.0 + liboqs environment benchmarking ML-DSA, Falcon, SPHINCS+, ML-KEM vs RSA and ECDSA | C · OpenSSL · liboqs · Docker |
+| [**BB84 QKD Simulator**](https://github.com/gianmarcomichelini/qkd-simulator) | Modular BB84 protocol simulation (Alice, Bob, and Eve) demonstrating quantum key distribution and eavesdropper detection | Python · Docker · Quantum |
 
-**[PQC Analyser](https://github.com/gianmarcomichelini/pqc-analyser)**  
-Post-quantum cryptography benchmarking suite with custom OpenSSL 3.6.0 build, performance analysis for ML-DSA, Falcon, and ML-KEM algorithms.  
-`C` `OpenSSL` `liboqs` `Docker`
+---
 
-**[QKD Simulator](https://github.com/gianmarcomichelini/qkd-simulator)**  
-BB84 quantum key distribution protocol simulator with interactive eavesdropping scenarios and real-time QBER analysis.  
-`Python` `Docker`
-
-**[SAML SSO PoC](https://github.com/gianmarcomichelini/saml-sso-poc)**  
-Complete SAML 2.0 federated authentication implementation with X.509-based trust and RSA-SHA256 digital signatures.  
-`Python` `Flask` `pysaml2`
-
-**[Reorder](https://github.com/gianmarcomichelini/reorder)**  
-Security-first restaurant management system with TOTP-based 2FA, strict session management, and modern React frontend.  
-`React` `Node.js` `Express`
-
-**[Tatum24](https://github.com/gianmarcomichelini/Tatum24)**  
-Defense-in-depth snippet sharing platform with RBAC, comprehensive input validation, and protection against common web vulnerabilities.  
-`Django` `Python` `PostgreSQL`
-
-**[Cryptography Labs](https://github.com/gianmarcomichelini/cryptography-labs)**  
-CTF-style challenges covering RSA attacks, padding oracles, hash collisions, and low-level cryptographic implementations.  
-`Python` `C` `OpenSSL`
+> **Open to opportunities** - full-time roles in cybersecurity engineering, security research, and secure system design.
